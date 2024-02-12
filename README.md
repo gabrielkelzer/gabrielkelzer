@@ -1,6 +1,6 @@
 ## Oiii eu sou o Gabriel Kelzer, escritor do livro "Achado não é roubado: Hackers, o manual" ! :)
 
-Gente, eu resolvir disponibilizar o **meu livro** no site [Zona Mestre](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Gente, eu resolvir disponibilizar o **meu livro** no site da [Zona Mestre](https://zonamestre.blogspot.com/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
