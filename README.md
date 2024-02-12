@@ -1,6 +1,6 @@
 ## Oiii eu sou o Gabriel Kelzer, escritor do livro "Achado não é roubado: Hackers, o manual" ! :D
 
-Pessoal eu resolvir disponibilizar o **meu livro** no site da [Zona Mestre](https://zonamestre.blogspot.com/)
+Pessoal eu resolvir disponibilizar o **meu livro** no site da [Zona Mestre](https://zonamestre.blogspot.com/) e pra quem não sabe eu fiz um Software super foda de Hacking e Pentest pro Termux (também chamado doravannte "Brazil Wings").
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
