@@ -1,4 +1,5 @@
-## Oiii eu sou o Gabriel Kelzer, escritor do livro "Achado não é roubado: Hackers, o manual"!
+## Oiii eu sou o Gabriel Kelzer, escritor do livro "Achado não é roubado: Hackers, o
+## manual" ! :D
 
 Gente, eu resolvir disponibilizar o **meu livro** no site da [Zona Mestre](https://zonamestre.blogspot.com/)
 
