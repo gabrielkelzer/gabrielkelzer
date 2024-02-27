@@ -1,6 +1,6 @@
 ## Oiii eu sou o Gabriel Kelzer, escritor do livro "Found is not stolen: Hackers, the manual." ! :D
 
-Pessoal eu resolvi disponibilizar o **meu livro** no site da [Zona Mestre](https://zonamestre.blogspot.com/) e pra quem não sabe eu fiz um Software super foda de Hacking e Pentest pro Termux (também chamado doravante "Brazil Wings").
+Pessoal eu decidi disponibilizar o **meu livro** no site da [Zona Mestre](https://zonamestre.blogspot.com/) e pra quem não sabe eu fiz um Software super foda de Hacking e Pentest pro Termux (também chamado doravante "Brazil Wings").
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GAB-BASH" height="30" width="80" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
