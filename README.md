@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel Kelzer, já fiz um livro de informática e grandes Softwares de Cibersegurança." ! :D
+## Oiii eu sou o Gabriel Kelzer, Já escrevi um livro de informática e pretendo ser reconhecido como um grande programador." ! :D
  
  Pessoal eu disponibilizei o **meu livro** grátis no [YouTube](https://YouTube.com/@gabrielkelzer) e pra quem não sabe eu fiz um Software super foda de Hacking e Pentest pro Termux (também chamado doravante "Brazil Wings").
  
