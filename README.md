@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel Kelzer, escritor do livro "Found is not stolen: Hackers, the manual." ! :D
+## Oiii eu sou o Gabriel Kelzer, já fiz um livro de informática e grandes Softwares de Cibersegurança." ! :D
  
  Pessoal eu disponibilizei o **meu livro** grátis no [YouTube](https://YouTube.com/@gabrielkelzer) e pra quem não sabe eu fiz um Software super foda de Hacking e Pentest pro Termux (também chamado doravante "Brazil Wings").
  
