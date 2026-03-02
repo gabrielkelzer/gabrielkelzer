@@ -1,4 +1,4 @@
-## Oiii eu sou o Gabriel Kelzer, Já escrevi um livro de informática e pretendo ser reconhecido como um grande programador." ! :D
+## Oiii eu sou o Gabriel Kelzer, Já escrevi um livro de Pentest e pretendo ser reconhecido como um grande programador." ! :D
  
  Pessoal eu disponibilizei o **meu livro** grátis no [YouTube](https://YouTube.com/@gabrielkelzer) e pra quem não sabe eu fiz um Software em modo texto de 5 mil linhas (Também chamado doravante "BrazilWings").
  
