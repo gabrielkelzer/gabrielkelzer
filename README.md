@@ -1,6 +1,6 @@
 ## Oiii eu sou o Gabriel Kelzer, Já escrevi um livro de Pentest e pretendo ser reconhecido como um grande programador." ! :D
  
- Pessoal eu disponibilizei o **meu livro** grátis no [YouTube](https://YouTube.com/@gabrielkelzer) e pra quem não sabe eu fiz um Software em modo texto de 5 mil linhas (Também chamado doravante "BrazilWings").
+ Pessoal eu disponibilizei o **meu livro** grátis no [YouTube](https://YouTube.com/@SoftwareDePentest) e pra quem não sabe eu fiz um Software em modo texto de 5 mil linhas (Também chamado doravante "BrazilWings").
  
  <div style="display: inline_block"><br>
    <img align="center" alt="GAB-BASH" height="30" width="80" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
