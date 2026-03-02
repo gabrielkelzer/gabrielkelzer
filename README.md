@@ -1,4 +1,4 @@
-## Oiii eu sou o Dev KelzerBoy, e sou criador de Softwares em modo Texto." ! :D
+## Oiii eu sou o Dev KelzerBoy, e sou um criador de Softwares em linha de comando." ! :D
  
  Pessoal eu disponibilizei o **meu livro** grátis no [YouTube](https://YouTube.com/@SoftwareDePentest) e pra quem não sabe eu fiz um Software em modo texto de 5 mil linhas (Também chamado doravante "BrazilWings").
  
