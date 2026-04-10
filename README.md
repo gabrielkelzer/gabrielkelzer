@@ -1,4 +1,4 @@
-## Me chamem de Gab, e uso meus conhecimentos pra programar Scripts para o Termux ! :D
+## Me chamem de Gab, Faço Scripts para o Termux! :D
  
  Pessoal eu disponibilizei o **meu livro** grátis no [YouTube](https://YouTube.com/@GabrielKelzer) e pra quem não sabe eu fiz um Software em modo texto de 5 mil linhas (Também chamado doravante "BrazilWings").
  
