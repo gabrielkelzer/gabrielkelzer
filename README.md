@@ -1,4 +1,4 @@
-## Me chamem de Gab, Faço Scripts para o Termux! :D
+## Meu Vulgo é Gabriel Kelzer, tenho sempre boas ideias e por isso peço que se inscrevam no meu YouTube depois!:D
  
  Pessoal eu disponibilizei o **meu livro** (de pentest) grátis no [YouTube](https://YouTube.com/@GabrielKelzer) e pra quem não sabe eu fiz um Software em modo texto de 5 mil linhas (Também chamado doravante "BrazilWings").
  
