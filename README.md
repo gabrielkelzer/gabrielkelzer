@@ -1,4 +1,4 @@
-## Oii meu nome é Gabriel, eu explico sobre cada Software no meu canal do YouTube... ! :D
+## Oii meu nome é Gabriel, eu explico sobre cada Software no meu canal do YouTube @gabrielkelzer ... ! :D
  
  Pessoal eu disponibilizei o **meu livro** (de pentest) grátis no [YouTube](https://YouTube.com/@GabrielKelzer) e pra quem não sabe eu fiz um Software em modo texto de 5 mil linhas (Também chamado doravante "BrazilWings").
  
