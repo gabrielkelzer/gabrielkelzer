@@ -1,4 +1,4 @@
-## Oii meu nome é Gabriel, no README de cada repositório possui um link do YouTube da explicação dele. Meu canal do YouTube: @kelzerdev ... ! :D
+## Oii meu nome é Gabriel, no README de alguns repositórios possui um link do YouTube da explicação dele. Meu canal do YouTube: @kelzerdev ... ! :D
  
  Pessoal eu disponibilizei o **meu livro** (de pentest) grátis no [YouTube](https://YouTube.com/@kelzerdev) e pra quem não sabe eu fiz um Software em modo texto de 5 mil linhas (Também chamado doravante "BrazilWings").
  
