@@ -47,9 +47,13 @@ Hoje utilizo a programação para construir meu futuro, aprender coisas novas e 
 - Projetos CLI
 - Ferramentas em terminal
 - Scripts úteis
-- Estudos Autodidatas (Segurança Digital)
-- Meu canal no YouTube (@KelzerBoy)
+- Estudos Autodidatas em Segurança Digital
+- 🎬 Meu canal no YouTube (@KelzerBoy)
 - Projetos pessoais
+- 🌐 Meu Script de 5 mil linhas de Pentest criado do zero em Python e Shell: [BrazilWings](https://github.com/gabrielkelzer/BrazilWings)
+- 📚 Meu livro de Segurança Digital: [Achado não é roubado: Hackers, o manual](https://www.dropbox.com/scl/fi/9hz49y04l7mhoo1q20k2a/MEULIVRO_COM_CAPA_NOVA.pdf?rlkey=cyho1p4ft00lotncv7xei32zw&st=55sjaw79&dl=0)
+- - 📚 Meu E-Book de Linux: [Noções de Linux com o Termux](https://www.dropbox.com/scl/fi/thsgqlx6061t4jeji0jdr/No-esdeLinux.pdf?rlkey=6lswksouams6loe3c65ad094s&e=1&dl=0)
+- 📚 Meu E-Book de Word: [Word 2016 Básico](https://www.dropbox.com/scl/fi/1nd5enu8vrlesoqzq1cl7/word2016kelzer.pdf?rlkey=9h2dguqtp3s2tfloz8q4qu7pn&e=1&dl=0)
 
 ---
 
