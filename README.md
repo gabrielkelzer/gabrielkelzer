@@ -15,9 +15,9 @@
 
 ```python
 languages = [
-    "Shell Script Intermediário",
-    "Noções de Python3",
-    "Noções de HTML5 e CSS",
+    "Shell Script (Intermediário)",
+    "Python3 (Noções)",
+    "HTML5 e CSS (Noções)",
     "JavaScript (em aprendizado)"
 ]
 ```
