@@ -8,8 +8,9 @@
 - Softwares CLI
 - Automações
 - Linux
-- Scripts Mobile de Pentest
+- Scripts
 - Apps Híbridos
+- Segurança Digital
 
 ---
 
@@ -17,11 +18,10 @@
 
 ```python
 languages = [
-    "Python",
-    "JavaScript",
-    "C#",
-    "HTML5 E CSS",
-    "Shell Script",
+    "Shell Script Intermediário",
+    "Noções de Python3",
+    "Noções de HTML5 e CSS",
+    "JavaScript (em aprendizado)"
 ]
 ```
 
@@ -50,7 +50,7 @@ Hoje utilizo a programação para construir meu futuro, aprender coisas novas e 
 - Projetos CLI
 - Ferramentas em terminal
 - Scripts úteis
-- Estudos Autodidatas (Francês,enfermagem)
+- Estudos Autodidatas (Segurança Digital)
 - Meu canal no YouTube (@KelzerBoy)
 - Projetos pessoais
 
