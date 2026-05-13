@@ -8,8 +8,8 @@
 - Softwares CLI
 - Automações
 - Linux
-- Scripts
-- Projetos experimentais
+- Scripts Mobile de Pentest
+- Apps Híbridos
 
 ---
 
@@ -50,8 +50,8 @@ Hoje utilizo a programação para construir meu futuro, aprender coisas novas e 
 - Projetos CLI
 - Ferramentas em terminal
 - Scripts úteis
-- Estudos
-- Ideias experimentais
+- Estudos Autodidatas (Francês,enfermagem)
+- Meu canal no YouTube (@KelzerBoy)
 - Projetos pessoais
 
 ---
