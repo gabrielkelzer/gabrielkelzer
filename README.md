@@ -5,12 +5,9 @@
 ```
 
 💻 Desenvolvedor focado em:
-- Softwares CLI
+- Softwares CLI (Command Line Interface)
 - Automações
 - Linux
-- Scripts
-- Apps Híbridos
-- Segurança Digital
 
 ---
 
