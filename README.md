@@ -1,72 +1,133 @@
-# 👋 Olá, eu sou Gabriel Kelzer ou se preferir "Kelzer Boy"
+👋 Olá, eu sou Gabriel — também conhecido como “KelzerBoy” ou “Gabriel Kelzer”
 
-```txt
-> Criando softwares, aprendendo tecnologias e evoluindo todos os dias.
-```
+E sim, caso você tenha chegado aqui através de algum software ou projeto do canal “KelzerBoy”, saiba que eu sou o criador por trás deles.
 
-💻 Desenvolvedor focado em:
-- Softwares CLI (Command Line Interface)
-- Automações de tarefas no Linux
-- Praticar conhecimento 
+⚠️ Todos os softwares desenvolvidos por mim estão centralizados neste GitHub, já que a marca KelzerBoy pertence aos meus próprios projetos e ideias.
 
 ---
 
-# 🧠 Linguagens & Tecnologias
+💻 Áreas de Interesse
 
-```python
+- Softwares CLI (Command Line Interface)
+- Shell Script & Python
+- Linux & Termux
+- Automação de tarefas
+- Interfaces em terminal
+- Estudos autodidatas em tecnologia
+- Projetos experimentais
+
+---
+
+🧠 Linguagens & Tecnologias
+
 languages = [
     "Shell Script (Intermediário)",
     "Python3 (Noções)",
-    "HTML5 e CSS (Noções)",
-    "JavaScript (em aprendizado)"
+    "HTML5 & CSS3 (Noções)",
+    "JavaScript (Aprendendo)"
 ]
-```
 
 ---
 
-# 🌍 Idiomas
+🌍 Idiomas
 
-```json
 {
   "Português": "Nativo",
   "Francês": "Aprendendo"
 }
-```
 
 ---
 
-# 📌 Sobre mim
+📌 Sobre a KelzerBoy
 
-Comecei criando projetos simples usando poucos recursos e muita criatividade.  
-Hoje utilizo a programação para construir meu futuro, aprender coisas novas e compartilhar minha evolução através dos meus projetos.
+A KelzerBoy é uma marca independente focada na criação de softwares em CLI (Command Line Interface), automações e ferramentas desenvolvidas principalmente por hobby, criatividade e aprendizado contínuo.
+
+Os projetos são criados com foco em explorar o universo Linux, Termux, Shell Script e Python, transformando ideias simples em experiências funcionais dentro do terminal.
 
 ---
 
-# 🚀 O que você encontra aqui?
+⚡ Softwares da KelzerBoy
+
+🛡️ System Nerf
+
+Ferramenta criada para corrigir temporariamente um erro relacionado ao WhatsApp, reduzindo travamentos causados por determinadas falhas da plataforma.
+
+---
+
+🤖 Tentame Kelzer
+
+Software experimental desenvolvido para criação e envio de áudios personalizados com efeitos de voz artificiais e modificações sonoras.
+
+---
+
+🌐 KelzerScan
+
+Ferramenta desenvolvida em Python para análise de portas TCP em hosts e servidores.
+
+---
+
+🚀 Gk Ngrok
+
+Instalador automatizado do Ngrok para Termux, permitindo criar túneis seguros e expor serviços locais para internet sem necessidade de Root.
+
+---
+
+⚔️ Kelzer X
+
+Interface desenvolvida em Shell Script para Termux/Linux com foco em automação e gerenciamento de ferramentas técnicas no Android.
+
+---
+
+🦅 BrazilWings
+
+Ferramenta voltada para facilitar a instalação e utilização de diversos utilitários técnicos e ambientes Linux no Android através do Termux.
+
+---
+
+🚀 O que você encontra aqui?
 
 - Projetos CLI
-- Ferramentas em terminal
+- Ferramentas para Termux/Linux
 - Scripts úteis
-- Estudos Autodidatas em Segurança Digital
-- 🎬 Meu canal no YouTube: [@KelzerBoy](https://youtube.com/@KelzerBoy)
-- Projetos pessoais
-- 🌐 Meu Script de 5 mil linhas de Pentest criado do zero em Python e Shell: [BrazilWings](https://github.com/gabrielkelzer/BrazilWings)
-- 📚 Meu livro de Segurança Digital: [Achado não é roubado: Hackers, o manual](https://www.dropbox.com/scl/fi/9hz49y04l7mhoo1q20k2a/MEULIVRO_COM_CAPA_NOVA.pdf?rlkey=cyho1p4ft00lotncv7xei32zw&st=55sjaw79&dl=0)
-- 📚 Meu E-Book de Linux: [Noções de Linux com o Termux](https://www.dropbox.com/scl/fi/thsgqlx6061t4jeji0jdr/No-esdeLinux.pdf?rlkey=6lswksouams6loe3c65ad094s&e=1&dl=0)
-- 📚 Meu E-Book de Word: [Word 2016 Básico](https://www.dropbox.com/scl/fi/1nd5enu8vrlesoqzq1cl7/word2016kelzer.pdf?rlkey=9h2dguqtp3s2tfloz8q4qu7pn&e=1&dl=0)
+- Projetos experimentais
+- Estudos autodidatas
+- Interfaces em terminal
+- Softwares independentes
 
 ---
 
-# ⭐ Apoie meu trabalho
+🌐 Links
+
+🎬 YouTube:
+"@KelzerBoy" (https://youtube.com/@KelzerBoy)
+
+💻 GitHub:
+"github.com/gabrielkelzer" (https://github.com/gabrielkelzer)
+
+🌟 Projeto em destaque:
+"BrazilWings" (https://github.com/gabrielkelzer/BrazilWings)
+
+---
+
+📚 Conteúdos & Materiais
+
+- 📖 Achado não é roubado: Hackers, o manual
+- 🐧 Noções de Linux com o Termux
+- 📝 Word 2016 Básico
+
+---
+
+⭐ Apoie meu trabalho
 
 Se gostar dos meus projetos:
+
 - Deixe uma estrela ⭐
 - Compartilhe
 - Acompanhe minha evolução
 
 ---
 
-```bash
 $ whoami
-Gabriel Kelzer "Kelzer Boy"
-```
+
+Gabriel Kelzer
+aka "KelzerBoy"
