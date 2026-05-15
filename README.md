@@ -26,19 +26,22 @@ languages = [
     "HTML5 e CSS (Noções)",
     "JavaScript (Em aprendizado)"
 ]
+```
 
 ---
 
-🌍 Idiomas
+# 🌍 Idiomas
 
+```json
 {
   "Português": "Nativo",
   "Francês": "Aprendendo"
 }
+```
 
 ---
 
-📌 Sobre mim
+# 📌 Sobre mim
 
 Comecei criando projetos simples utilizando poucos recursos e muita criatividade.
 
@@ -48,35 +51,29 @@ A KelzerBoy representa meus softwares, ideias e experiências desenvolvidas prin
 
 ---
 
-⚡ Softwares da KelzerBoy
+# ⚡ Softwares da KelzerBoy
 
-🛡️ System Nerf
-
+## 🛡️ System Nerf
 Sistema criado para corrigir temporariamente um erro relacionado ao WhatsApp, reduzindo travamentos causados por determinadas falhas da plataforma.
 
-🤖 Tentame Kelzer
-
+## 🤖 Tentame Kelzer
 Software experimental desenvolvido para criação e envio de áudios personalizados com efeitos de voz artificiais e modificações sonoras.
 
-🌐 KelzerScan
-
+## 🌐 KelzerScan
 Ferramenta desenvolvida em Python para análise de portas TCP em hosts e servidores.
 
-🚀 Gk Ngrok
-
+## 🚀 Gk Ngrok
 Instalador automatizado do Ngrok para Termux, permitindo criar túneis seguros e expor serviços locais para internet sem necessidade de Root.
 
-⚔️ Kelzer X
-
+## ⚔️ Kelzer X
 Interface desenvolvida em Shell Script para Termux/Linux com foco em automação e gerenciamento de ferramentas técnicas no Android.
 
-🦅 BrazilWings
-
+## 🦅 BrazilWings
 Ferramenta voltada para facilitar a instalação e utilização de diversos utilitários técnicos e ambientes Linux no Android através do Termux.
 
 ---
 
-🚀 O que você encontra aqui?
+# 🚀 O que você encontra aqui?
 
 - Projetos CLI
 - Ferramentas em terminal
@@ -85,24 +82,27 @@ Ferramenta voltada para facilitar a instalação e utilização de diversos util
 - Projetos pessoais
 - Interfaces para Termux/Linux
 
-🎬 Meu canal no YouTube:
-"@KelzerBoy" (https://youtube.com/@KelzerBoy)
+---
 
-🌐 Meu Script de Pentest criado do zero em Python e Shell:
-"BrazilWings" (https://github.com/gabrielkelzer/BrazilWings)
+# 🌐 Projetos, Conteúdos & Links
 
-📚 Meu livro de Segurança Digital:
-"Achado não é roubado: Hackers, o manual" (https://www.dropbox.com/scl/fi/9hz49y04l7mhoo1q20k2a/MEULIVRO_COM_CAPA_NOVA.pdf?rlkey=cyho1p4ft00lotncv7xei32zw&st=55sjaw79&dl=0)
+- 🎬 Canal no YouTube: [@KelzerBoy](https://youtube.com/@KelzerBoy)
 
-📚 Meu E-Book de Linux:
-"Noções de Linux com o Termux" (https://www.dropbox.com/scl/fi/thsgqlx6061t4jeji0jdr/No-esdeLinux.pdf?rlkey=6lswksouams6loe3c65ad094s&e=1&dl=0)
+- 🌐 Script de Pentest criado do zero em Python e Shell:  
+  [BrazilWings](https://github.com/gabrielkelzer/BrazilWings)
 
-📚 Meu E-Book de Word:
-"Word 2016 Básico" (https://www.dropbox.com/scl/fi/1nd5enu8vrlesoqzq1cl7/word2016kelzer.pdf?rlkey=9h2dguqtp3s2tfloz8q4qu7pn&e=1&dl=0)
+- 📚 Livro de Segurança Digital:  
+  [Achado não é roubado: Hackers, o manual](https://www.dropbox.com/scl/fi/9hz49y04l7mhoo1q20k2a/MEULIVRO_COM_CAPA_NOVA.pdf?rlkey=cyho1p4ft00lotncv7xei32zw&st=55sjaw79&dl=0)
+
+- 📚 E-Book de Linux:  
+  [Noções de Linux com o Termux](https://www.dropbox.com/scl/fi/thsgqlx6061t4jeji0jdr/No-esdeLinux.pdf?rlkey=6lswksouams6loe3c65ad094s&e=1&dl=0)
+
+- 📚 E-Book de Word:  
+  [Word 2016 Básico](https://www.dropbox.com/scl/fi/1nd5enu8vrlesoqzq1cl7/word2016kelzer.pdf?rlkey=9h2dguqtp3s2tfloz8q4qu7pn&e=1&dl=0)
 
 ---
 
-⭐ Apoie meu trabalho
+# ⭐ Apoie meu trabalho
 
 Se gostar dos meus projetos:
 
@@ -112,7 +112,9 @@ Se gostar dos meus projetos:
 
 ---
 
+```bash
 $ whoami
 
 Gabriel Kelzer
 aka "KelzerBoy"
+```
