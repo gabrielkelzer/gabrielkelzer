@@ -109,6 +109,7 @@ Se gostar dos meus projetos:
 - Deixe uma estrela ⭐
 - Compartilhe
 - Acompanhe minha evolução
+- Comente nos meus vídeos do YouTube
 
 ---
 
