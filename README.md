@@ -51,7 +51,7 @@ A KelzerBoy representa meus softwares, ideias e experiências desenvolvidas prin
 
 ---
 
-# ⚡ Softwares da KelzerBoy
+# ⚡ Softwares em Destaque da KelzerBoy
 
 ## 🛡️ System Nerf
 Sistema criado para corrigir temporariamente um erro relacionado ao WhatsApp, reduzindo travamentos causados por determinadas falhas da plataforma.
