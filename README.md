@@ -6,8 +6,8 @@
 
 💻 Desenvolvedor focado em:
 - Softwares CLI (Command Line Interface)
-- Automações
-- Linux
+- Automações de tarefas no Linux
+- Praticar conhecimento 
 
 ---
 
