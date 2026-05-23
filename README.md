@@ -86,7 +86,7 @@ Ferramenta voltada para facilitar a instalação e utilização de diversos util
 
 # 🌐 Projetos, Conteúdos & Links
 
-- 🎬 Canal no YouTube: [@KelzerBoy](https://youtube.com/@KelzerBoy)
+- 🎬 Canal no YouTube: [@KelzerBoy](https://youtube.com/@KelzerBoyStudios)
 
 - 🌐 Script de Pentest criado do zero em Python e Shell:  
   [BrazilWings](https://github.com/gabrielkelzer/BrazilWings)
