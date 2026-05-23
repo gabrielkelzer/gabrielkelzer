@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Gabriel, mas no universo da programação sou mais conhecido como “KelzerBoy” ou “Gabriel Kelzer”.
+# 👋 Olá, eu sou Gabriel, mas no universo da programação sou mais conhecido como “Gabriel Kelzer” ou KelzerBoy por criar a marca/empresa KelzerBoy Studios.
 
-E sim, caso você tenha chegado aqui através de algum software ou projeto do canal no YouTube “KelzerBoy”, saiba que eu sou o criador por trás deles.
+E sim, caso você tenha chegado aqui através de algum software ou projeto do canal no YouTube “KelzerBoyStudios”, saiba que eu sou o criador por trás deles.
 
-> ⚠️ Todos os softwares desenvolvidos por mim estão centralizados neste GitHub, pois a marca KelzerBoy representa meus próprios projetos, ideias e experiências dentro da programação.
+> ⚠️ Todos os softwares desenvolvidos por mim estão centralizados neste GitHub, mas somente no repositório /KelzerBoyStudios é da minha marca de Software ou empresa mãe e que possui outros softwares que pode não ser de minha autoria. 
 
 ---
 
@@ -51,7 +51,7 @@ A KelzerBoy representa meus softwares, ideias e experiências desenvolvidas prin
 
 ---
 
-# ⚡ Softwares em Destaque da KelzerBoy
+# ⚡ Softwares em Destaque da KelzerBoy (Meus 100%)
 
 ## 🛡️ System Nerf
 Sistema criado para corrigir temporariamente um erro relacionado ao WhatsApp, reduzindo travamentos causados por determinadas falhas da plataforma.
