@@ -2,7 +2,7 @@
 
 E sim, caso você tenha chegado aqui através de algum software ou projeto do canal no YouTube “KelzerBoyStudios”, saiba que eu sou o criador por trás deles.
 
-> ⚠️ Todos os softwares desenvolvidos por mim estão centralizados neste GitHub, mas somente no repositório /KelzerBoyStudios é da minha marca de Software ou empresa mãe e que possui outros softwares que pode não ser de minha autoria. 
+> ⚠️ Todos os softwares desenvolvidos por mim estão centralizados neste GitHub, mas somente no repositório /KelzerBoyStudios é da marca de Software KelzerBoy.
 
 ---
 
